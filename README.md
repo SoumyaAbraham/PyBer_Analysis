@@ -79,11 +79,11 @@ From the graph, we can infer some of the following:
   * _Suburban cities_ see a range of fares as low as *$700* and sometimes making *$1700*. 
 
 -------
--------
 
-The complete code can be found [PyBer_Challenge](https://github.com/SoumyaAbraham/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
-Some other analyses on the PyBer city and ride data can be found:  
-[PyBer_Analysis](https://github.com/SoumyaAbraham/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb)
+#### The complete code can be found- [PyBer_Challenge](https://github.com/SoumyaAbraham/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb)
+#### Some other analyses on the PyBer city and ride data can be found- [PyBer_Analysis](https://github.com/SoumyaAbraham/PyBer_Analysis/blob/main/PyBer_Analysis.ipynb)
+
+
 -----
 
 
